@@ -1,0 +1,272 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+img{
+  vertical-align: middle;
+}
+
+.site-header{
+  padding-top: 50px;
+  padding-bottom: 84px;
+}
+
+.container{
+  width: 1260px;
+  padding-right:20px;
+  padding-left: 20px;
+  margin-right  : auto;
+  margin-left: auto;
+}
+
+.site-logo-link{
+  text-decoration: none;
+}
+
+.site-logo{
+  width: 160px;
+  height: 41px;
+}
+
+.nav-menu{
+  display: inline-block;
+  margin-left: 472px;
+}
+
+.menu-list{
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+
+}
+
+.menu-item{
+  display: inline-block;
+  vertical-align: middle;
+}
+.menu-link{
+  margin-left: 40px;
+  color: rgba(31, 21, 52, 0.5);
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.active-link{
+  margin-left: 0;
+  padding-right: 0;
+  color:rgb(31, 21, 52);
+}
+
+.hero{
+  margin-bottom: 171px;
+}
+
+.hero-info{
+  display: inline-block;
+  vertical-align: middle;
+  width: 445px;
+  margin-right: 109px;
+}
+
+.hero-title{
+  display: inline-block;
+  font-size: 48px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+
+.hero-link{
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  background-color: #458FF6;
+  border-radius: 55px;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  margin-top: 48px;
+}
+
+.hero-image{
+  width: 593px;
+}
+
+.services-heading{
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 26px;
+}
+
+.service-line{
+  display: block;
+  width: 56px;
+  height: 2px;
+  background-color: #000  ;
+  margin: 0 auto;
+  margin-bottom: 33px;
+}
+
+.service-title{
+  width: 952px;
+  font-size: 18px;
+  color: #000;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.service-text{
+  text-align: center;
+  width: 952px;
+  font-size: 18px;
+  color: #000;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Our{
+  margin-bottom: 106px;
+}
+
+.container{
+  width: 1260px;
+}
+
+.our-services-info{
+display: inline-block;
+vertical-align: middle;
+width: 1220px;
+margin-right: 221px;
+}
+
+.our-services-title{
+ display: inline-block;
+ width: 212p;
+ vertical-align: middle;
+ margin-left: 356px;
+margin-right: 356px;
+}
+
+.our-servies-text{
+display: inline-block;
+width: 852px;
+margin-left: auto;
+margin-right: auto;
+padding-left: 126px;
+}
+
+.Our-services-list{
+  display: inline-block;
+  text-decoration: none;
+  margin-left: 6px;
+  pad: 0;
+}
+
+.our-sevices-item{
+  display: inline-block;
+  width: 250px;
+  margin: 34px;
+}
+
+.lupa-link{
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  vertical-align: middle;
+}
+
+.lupa-h1{
+  font-size: 24px;
+  line-height: 56px;
+}
+
+.lupa-text{
+  display: inline-block;
+  width: 250px;
+  color: rgba(31, 21, 52, 0.5); 
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+
+.pharmacy-link{
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  vertical-align: middle;
+}
+
+.pharmacy-image{
+  display: inline-block;
+
+}
+
+.consultation-link{
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  vertical-align: middle;
+}
+
+.our-services-item{
+  display: inline-block;
+  text-decoration: none;
+  margin: 54px;
+}
+
+.active-link{  
+  display: inline-block;
+  vertical-align: middle;
+  margin: 36px;
+}
+
+.consultation-image{
+  display: inline-block;
+  width: 250px;
+}
+
+.frame-link{
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  vertical-align: middle;
+}
+
+.frame-info{
+  text-decoration: none;
+  color: black;
+}
+
+.frame-image{
+  display: inline-block;
+  padding: 0;
+  margin-right: 90px;
+  margin-bottom: 30px;
+}
+
+.frame-tracking-text{
+  display: inline-block;
+  width: 250px;
+  color: rgba(31, 21, 52, 0.5); 
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+
+.our-service-link{
+  display: inline-block;
+  text-decoration: none;
+  margin-right: auto;
+  margin-left: 450px;
+  color: #fff;
+  background-color: #458FF6;
+  border-radius: 55px;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  margin-top: 48px;
+}
